@@ -1,10 +1,11 @@
 # vr_assignment
 
-A new Flutter project.
+A VR  project.
 
 ## Getting Started
+The VR media player developed as a Flutter plugin for 360-degree videos is an innovative application seamlessly integrated with Flutter's UI toolkit. Designed for cross-platform deployment on iOS and Android, this plugin offers users an immersive experience, enabling smooth navigation through 360-degree environments with intuitive gestures or controllers. Leveraging Flutter's animation capabilities, developers can create dynamic effects, and customizable UI elements enhance the user interface's aesthetics
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
